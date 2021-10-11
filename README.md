@@ -1,2 +1,2 @@
 # Eoan-Group
-# This is my fisyt edith from innerbiulder academy
+# This is my first edith from innerbiulder academy
